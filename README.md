@@ -2,3 +2,4 @@
 ## Цикл лабораторных работ
 
 [Указания к работам](resources/directions.md)
+lab03 Polikarpov Maksim
